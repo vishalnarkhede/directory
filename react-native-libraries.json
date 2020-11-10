@@ -5611,5 +5611,15 @@
     "githubUrl": "https://github.com/khalisafkari/react-native-latlon",
     "examples": ["https://github.com/khalisafkari/react-native-latlon/tree/master/examples"],
     "android": true
-  }
+  },
+  {
+    "githubUrl": "https://github.com/ravirupareliya/rn-in-app-review",
+    "examples": ["https://github.com/ravirupareliya/rn-in-app-review/tree/master/example"],
+    "images": [
+      "https://github.com/ravirupareliya/rn-in-app-review/raw/master/android.jpg",
+      "https://github.com/ravirupareliya/rn-in-app-review/blob/master/ios.png"
+    ],
+    "ios": true,
+    "android": true
+  },
 ]
